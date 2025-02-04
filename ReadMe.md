@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate web developer currently delving into full-stack development projects, where I enjoy creating responsive and functional web applications. With a focus on continuous learning, I'm also exploring game development and expanding my skills in Java development.<br><br>🌱 What I'm Working On:<br>Building engaging web applications from the ground up<br>Exploring game development concepts<br>Enhancing my proficiency in Java for broader development opportunities<br><br>💡 What Interests Me:<br>Full-stack web development<br>Web applications and interactive UIs<br>Game development and design<br>Advanced Java development techniques
+I'm a passionate Full Stack Developer currently delving into full-stack development projects, where I enjoy creating responsive and functional web applications. With a focus on continuous learning, I'm also exploring game development and expanding my skills in Java development.<br><br>🌱 What I'm Working On:<br>Building engaging web applications from the ground up<br>Exploring game development concepts<br>Enhancing my proficiency in Java for broader development opportunities<br><br>💡 What Interests Me:<br>Full-stack web development<br>Web applications and interactive UIs<br>Game development and design<br>Advanced Java development techniques
 
 
 ## 🌐 Socials:
